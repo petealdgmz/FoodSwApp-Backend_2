@@ -50,7 +50,7 @@ module.exports = function (app) {
               password: password,
               telefono: phoneNumber,
               direccion: direc,
-              timestamp: timestamp, // Agrega el timestamp al documento
+              timestamp: timestamp, // valor de timestamp al documento
             });
         }
         // Registro exitoso
